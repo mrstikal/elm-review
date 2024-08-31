@@ -1,6 +1,6 @@
 {
-  "name": "review",
-  "version": "1.0.0",
+  "name": "elm-review",
+  "version": "2.14.0",
   "scripts": {
     "test": "npm-run-all --print-name --silent --sequential test:make test:format test:run test:review test:phantom",
     "test:make": "elm make --docs=docs.json",
